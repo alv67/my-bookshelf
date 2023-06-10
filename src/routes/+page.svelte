@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Usare SvelteKit per gestire DB basato su Airtable</h1>
+<p>
+    Questo piccolo progetto nasce solo per testare le funzionalità di
+    <a href="https://kit.svelte.dev">SvelteKit</a> come framework per creare un'applicazione
+    che utilizza Airtable come database backend
+</p>
